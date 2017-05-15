@@ -1,0 +1,147 @@
+@charset "shift_jis";
+
+div.contact-detail-item{
+float:left;
+}
+
+ul.contact-category-ul{
+	width:100%;
+    letter-spacing: -.40em;
+
+}
+
+ul.contact-category-ul li{
+	display: inline-block;
+    /*background: url(/common/pic/icon_page_link.gif) no-repeat 0 5px;*/
+    margin:10px 5px 0px 0px;
+    letter-spacing: normal;
+}
+
+ul.contact-category-ul li:last-child{
+	margin-left:0px;
+}
+
+ul.contact-category-ul li a{
+	display:table-cell;
+	vertical-align: middle;
+	padding: 10px 6px;
+	background-color: #ef7b00;
+	font-size:133.3%;
+	line-height: 100%;
+	color:#fff;
+    width:220px;
+	height:50px;
+	text-align: center;
+	border-radius: 5px;
+}
+
+ul.contact-category-ul li.contact-category-now a{
+	/*
+	color:#ef7a00;
+	background-color:#fff;
+	/**/
+	background-color: #f29533;
+}
+
+
+span.contact-sub{
+	font-size:60%;
+}
+
+div.contact-detail-itemTelInfo{
+	width:500px;
+	padding:5px;
+}
+
+div.contact-detail-itemTelInfo ul.btn-basic{
+padding:0px;
+margin:10px 20px;
+}
+
+div.contact-detail-itemTelInfo ul.btn-basic li.btn-large a{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+div.contact-detail-itemTelInfo dl dt{
+	width:80px;
+}
+
+div.contact-detail-itemTelInfo div.contact-detail-item h4{
+margin-top:1em;
+}
+
+div.contact-detail-itemTelInfo ul.contact-subLinks{
+    border-top: 1px solid #c2c1c1;
+    margin:1em 0px;
+    padding-top:1em;
+}
+
+div.contact-detail-itemTelInfo p{
+	margin:0px 0px 10px 2em;
+}
+div.contact-detail-itemTelInfo ul{
+padding:1em 0px 0px 1em
+border-top: 1px dashed #595959;
+}
+
+div.contact-detail-itemTelInfo h4{
+	margin-top:1em;
+	margin-bottom:5px;
+}
+
+div.contact-detail-itemTelInfo table.contact-openness{
+	margin:1em 0px;
+}
+
+div.contact-detail-itemTelInfo table.contact-openness th{
+	width:5em;
+}
+
+div.contact-detail-itemTelInfo table.contact-openness .wth5em{
+	width:5em;
+}
+
+span.tel-description{
+}
+
+span.tel-body img{
+margin:0px;
+}
+
+span.tel-body{
+padding-left:2em;
+}
+
+div.contact-detail-item-konzatu{
+	width:350px;
+}
+
+div.contact-detail{
+	display:none;
+}
+
+
+section.contact-detail-section{
+	margin-top:0px;
+	background-color: #fff;
+    border: 1px solid #e6e6e6;
+}
+
+section.contact-detail-section h3.h3{
+    padding: 10px 0px 10px 20px;
+    margin: 0px 0px 10px;
+}
+
+.tel{
+    font-size: 28px;
+    font-weight: bold;
+    vertical-align: middle;
+    padding-left: 8px;
+}
+
+div.class_konzatsuhyo.contact-detail-item{
+	width:260px;
+}
+
+
